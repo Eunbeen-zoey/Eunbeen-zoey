@@ -1,4 +1,4 @@
-## Hello World! I'm Eunbeen 👋
+##[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=42&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hello+World!;I'm+Eunbeen.;)](https://git.io/typing-svg)👋
 
 :book: ## Education
 ### Sungshin Women's University, AI
@@ -9,17 +9,11 @@
    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Remix IDE](https://img.shields.io/badge/Remix_IDE-181717?style=for-the-badge&logo=ethereum&logoColor=white)
+  ![MetaMask](https://img.shields.io/badge/MetaMask-FF5C16?style=for-the-badge&logo=metamask&logoColor=white)
+  
 
-**Eunbeen-zoey/Eunbeen-zoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+## 📫 How to reach me: blog: https://blog.naver.com/choieunbeen
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
