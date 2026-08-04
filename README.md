@@ -15,4 +15,4 @@
   
 
 ## 📫 How to reach me
-blog: https://blog.naver.com/choieunbeen
+blog: [https://blog.naver.com/choieunbeen](https://zoey10041.tistory.com/)
